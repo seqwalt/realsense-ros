@@ -6,3 +6,6 @@
 .idea/
 .vs/
 *.json
+
+# unignore emitter json file
+!emitter_disabled_60fps.json
